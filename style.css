@@ -1,0 +1,52 @@
+
+	<style
+			h2 {
+				text-decoration: underline;
+				font-size: 40;
+				color: wheat;
+			}
+			h3 {
+				color: wheat;
+			}
+			p {
+				font-size: 15;
+				color: wheat;
+			}
+			ul {font-style: italic;
+
+			}
+			body {
+				background-color: seagreen;
+			}
+			a href {
+				color: purple;
+			}
+			img {
+				max-width: 150;	
+			
+	</style>
+
+
+	<style type="text/css">
+			#div1{
+				background-color: #E0BBE4;
+			}
+			#div2{
+				background-color: #957DAD;
+			}
+			#div3{
+				background-color: #D29IBC;
+			}
+			#div4{
+				background-color: #FEC8D8;
+			}
+
+			#div1, #div2, #div3, #div4{
+				border: solid;
+				border-color: seagreen;
+			}
+			input[type=button]:hover{
+				border: solid;
+				background-color: pink;
+			}
+		</style>
